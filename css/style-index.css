@@ -1,0 +1,22 @@
+.jumbotron{
+    background-color: #ffffff;
+}
+
+body{
+    background-image: url("../images/retina_wood.png");
+}
+
+#myfooter{
+    height: 4em;
+    background-color: #e7e7e7;
+    text-align: center;
+    padding-top: 1em;
+}
+
+.img-thumbnail{
+    float: left;
+}
+
+#message{
+    height: 400px;
+}
